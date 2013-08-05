@@ -122,9 +122,9 @@ namespace Antlr4.Runtime
                 return;
             }
 
-            //data = r.ReadToEnd().ToCharArray();
-            //n = data.Length;
-            //return;
+            data = r.ReadToEnd().ToCharArray();
+            n = data.Length;
+            return;
 
             if (size <= 0)
             {
