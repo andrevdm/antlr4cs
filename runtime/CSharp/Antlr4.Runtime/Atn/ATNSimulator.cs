@@ -42,7 +42,7 @@ namespace Antlr4.Runtime.Atn
     {
         public static readonly int SerializedVersion = 3;
 
-        public static readonly Guid SerializedUuid = new Guid("E4178468-DF95-44D0-AD87-F22A5D5FB6D3");
+        public static readonly Guid SerializedUuid = new Guid( "5d5fb6d3-f22a-ad87-d044-95df688417e4" );
 
         public const char RuleVariantDelimiter = '$';
 
